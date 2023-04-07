@@ -13,8 +13,8 @@ digunakan untuk memonitor tingkat kecerahan dari platfrom Blynk. Selain itu, web
 Sensor akan dikendalikan dan dimonitor oleh platform Blynk.
 
 # Pembagian Tugas :
-Muhamad Gusti Keyandi Ervan : merakit rangkaian intensitas sensor cahaya 
-Sael Samuel Rude' : membuat kodingan 
+- Muhamad Gusti Keyandi Ervan : merakit rangkaian intensitas sensor cahaya 
+- Sael Samuel Rude' : membuat kodingan 
 
 # Komponen yang digunakan :
 - 1 sensor cahaya (BH1750)
@@ -23,4 +23,4 @@ Sael Samuel Rude' : membuat kodingan
 - 1 ENSP8266
 
 # Board Schematic :
-https://raw.githubusercontent.com/saelsam/posttest2-praktikum-iot-unmul/main/Board%20Schematic.png
+<img src="https://github.com/saelsam/posttest2-praktikum-iot-unmul/blob/main/Board%20Schematic.png?raw=true">
