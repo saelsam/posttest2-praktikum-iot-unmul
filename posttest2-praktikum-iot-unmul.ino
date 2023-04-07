@@ -60,6 +60,6 @@ void sensorcahaya() {
 }
 
 void kirimdatablynk() {
-  Blynk.virtualWrite(V0, lux);
+  // Blynk.virtualWrite(V0, lux);
   Blynk.run();
 }
